@@ -30,9 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: cayman
-# plugins:
-#  - jekyll-feed
+ theme: jekyll-theme-cayman
+ plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -61,6 +61,6 @@ url: https://andrew-wung.github.io
 baseurl: /saferinternet/      
 # place folder name if the site is served in a subfolder
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme
