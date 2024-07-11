@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Overview
+# Safer Internet Pledge
 
 This is a voluntary pledge focused on enterprise software products and services, including on-premises software, cloud services, and software as a service (SaaS). Physical products such as IoT devices and consumer products are not scoped in the pledge, though companies who wish to demonstrate progress in those areas are welcome to do so.
 
