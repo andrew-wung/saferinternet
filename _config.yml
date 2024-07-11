@@ -3,3 +3,11 @@ description: This is a voluntary pledge on Abuse Management, focused on enterpri
 show_downloads: false
 # google_analytics:
 theme: jekyll-theme-cayman
+buttons:
+      zip_url: http://example.com/
+      zip_title: Title
+      zip_hide: true
+      tar_url: http://example.com/
+      tar_title: Title
+      tar_hide: true
+      github_hide: true # hides "View on Github"
